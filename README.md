@@ -11,7 +11,7 @@
 ![Git](https://img.shields.io/badge/-Git-D3D3D3?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-ADD8E6?style=flat-square&logo=Docker)
 ![React](https://img.shields.io/badge/-React-ADD8E6?style=flat-square&logo=React)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-90EE90?style=flat-square&logo=SpringBoot&logoColor=green)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-90EE90?style=flat-square&logo=SpringBoot&logoColor=darkgreen)
 
 
 ![Loveena's github stats](https://github-readme-stats.vercel.app/api?username=Pretty-19&show_icons=true&theme=radical)
