@@ -10,6 +10,7 @@
 ![Java](https://img.shields.io/badge/-Java-F7DF1E?style=flat-square&logo=java&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-D3D3D3?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-ADD8E6?style=flat-square&logo=Docker)
+![React](https://img.shields.io/badge/-React-ADD8E6?style=flat-square&logo=React)
 
 
 
